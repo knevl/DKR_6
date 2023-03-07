@@ -122,7 +122,7 @@ begin
       3: PrintList;
       4: break;
     else
-      writeln('Некоректно');
+      writeln('Некорректно');
     end;
   until False;
 end.
